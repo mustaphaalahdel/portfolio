@@ -3,6 +3,7 @@
     "forceUpdate": {
         "value": "0",
         "url": "",
-        "message": ""
+        "title": "",
+        "body": ""
     }
 }
