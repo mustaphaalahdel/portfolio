@@ -1,8 +1,8 @@
 {
   "activeAd": "1",
-  "showOurApp": "",
-  "showContactUs": "",
-  "mhmaUrl": "",
+  "showOurApp": "1",
+  "showContactUs": "1",
+  "mhmaUrl": "https://imukbvzqn6quogykzjezhq.on.drv.tw/mhma/",
   "mhmaUrlEn": "",
   "forceUpdate": {
     "version": "1",
